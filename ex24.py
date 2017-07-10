@@ -9,14 +9,13 @@ nor comprehend passion from intuition
 and requires an explanation
 \n\t\twhere there is none.
 """
-
 print "--------------"
 print poem
 print "--------------"
 
 five = 10 - 2 + 3 - 6
 print "This should be five: %s" % five
-
+#  添加备注
 def secret_formula(started):
 	jelly_beans = started * 500
 	jars = jelly_beans / 1000
