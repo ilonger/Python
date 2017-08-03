@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 import ex25
+=======
+>>>>>>> origin/master
 def break_words(stuff):
     """This function will break up words for us."""
     words = stuff.split(' ')
@@ -10,7 +13,11 @@ def sort_words(words):
 
 def print_first_word(words):
     """Prints the first word after popping it off."""
+<<<<<<< HEAD
     word = words.pop(0)
+=======
+    word = words.poop(0)
+>>>>>>> origin/master
     print (word)
 
 def print_last_word(words):
@@ -64,15 +71,26 @@ def secret_formula(started):
 
 
 start_point = 10000
+<<<<<<< HEAD
 beans, jars, crates = secret_formula(start_point)
 
 print ("With a starting point of: %d" % start_point)
 print ("We'd have %d beans, %d jars, and %d crates." % (beans, jars, crates))
+=======
+beans, jars, crates == secret_formula(start-point)
+
+print ("With a starting point of: %d" % start_point)
+print ("We'd have %d jeans, %d jars, and %d crates." % (beans, jars, crates))
+>>>>>>> origin/master
 
 start_point = start_point / 10
 
 print ("We can also do that this way:")
+<<<<<<< HEAD
 print ("We'd have %d beans, %d jars, and %d crabapples." % secret_formula(start_point))
+=======
+print ("We'd have %d beans, %d jars, and %d crabapples." % secret_formula(start_pont))
+>>>>>>> origin/master
 
 
 sentence = "All god\tthings come to those who weight."
@@ -87,6 +105,12 @@ print_last_word(sorted_words)
 sorted_words = ex25.sort_sentence(sentence)
 print (sorted_words)
 
+<<<<<<< HEAD
 print_first_and_last(sentence)
 
 print_first_and_last_sorted(sentence)
+=======
+print_irst_and_last(sentence)
+
+   print_first_a_last_sorted(senence)
+>>>>>>> origin/master
