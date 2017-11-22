@@ -11,8 +11,9 @@ and requires an explanation
 """
 print "--------------"
 print poem
+#print "hehe"
 print "--------------"
-
+# 添加备注
 five = 10 - 2 + 3 - 6
 print "This should be five: %s" % five
 #  添加备注
