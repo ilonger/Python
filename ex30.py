@@ -1,4 +1,4 @@
-people = 30
+people = 40
 cars = 40
 trucks = 15
 
@@ -14,7 +14,7 @@ else:
 
     print("We can't decide.")
 
-if turcks > cars:
+if trucks > cars:
 
     print("That's too many trucks.")
 
