@@ -7,6 +7,7 @@ if door == "1":
     print("There's a giant bear here eating a cheese cake. What do you do?")
 
     print("1. Take the cake.")
+
     print("2. Scream at the bear.")
 
     bear = raw_input("> ")
@@ -26,8 +27,11 @@ if door == "1":
 elif door == "2":
 
     print("You stare into the endless abyss at Cthulhu's retina.")
+
     print("1.Blueberries.")
+
     print("2.Yellow jacket clothespins.")
+
     print("3.Understanding revolvers yelling melodies.")
 
     insanity = raw_input("> ")
