@@ -1,6 +1,6 @@
 print("Your enter a dark room with two doors. Do you go through door #1 or door #2?")
 
-door = raw_input("> ")
+door = input("> ")
 
 if door == "1":
 
@@ -10,7 +10,7 @@ if door == "1":
 
     print("2. Scream at the bear.")
 
-    bear = raw_input("> ")
+    bear = input("> ")
 
     if bear == "1":
 
@@ -34,7 +34,7 @@ elif door == "2":
 
     print("3.Understanding revolvers yelling melodies.")
 
-    insanity = raw_input("> ")
+    insanity = input("> ")
 
     if insanity == "1" or insanity == "2":
 
