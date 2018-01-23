@@ -4,7 +4,7 @@ change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
 
 # this first kind of for-loop goes through a list
 for number in the_count:
-print("this is count %d" % number)
+    print("this is count {:d}".format(number))
 
 #same as above
 for fruit in fruits:
