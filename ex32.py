@@ -22,7 +22,7 @@ elements = []
 for i in range(0, 6):
     print("Adding %d to the list." % i)
     # append id a function that lists understand
-    elements.append(i)
+    elements.append(i)  #elements.append()实现的功能是 在列表的末尾追加一个元素
 
 #now we can print them out too
 for i in elements:
