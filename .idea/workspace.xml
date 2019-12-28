@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="474ce831-fcf4-4913-8c8e-1920ce3f8f0f" name="Default" comment="pycharm更新">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-    </list>
+    <list default="true" id="474ce831-fcf4-4913-8c8e-1920ce3f8f0f" name="Default" comment="pycharm更新" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +176,7 @@
       <workItem from="1574405490143" duration="559000" />
       <workItem from="1575453156993" duration="136000" />
       <workItem from="1575453318004" duration="3000" />
-      <workItem from="1577414895409" duration="436000" />
+      <workItem from="1577414895409" duration="712000" />
     </task>
     <task id="LOCAL-00001" summary="py3以上raw_input改成了input">
       <created>1516606296970</created>
@@ -293,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574050337014</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="pycharm更新">
+      <created>1577553562050</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1577553562050</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
