@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="474ce831-fcf4-4913-8c8e-1920ce3f8f0f" name="Default" comment="新增">
+    <list default="true" id="474ce831-fcf4-4913-8c8e-1920ce3f8f0f" name="Default" comment="pycharm更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex33">
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex31" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +151,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.1" />
       <item itemvalue="Python.ex33" />
       <item itemvalue="Python.ex31" />
       <item itemvalue="Python.ex32" />
@@ -151,7 +175,11 @@
       <updated>1515051264490</updated>
       <workItem from="1573565088629" duration="689000" />
       <workItem from="1573613194069" duration="1459000" />
-      <workItem from="1574046966498" duration="206000" />
+      <workItem from="1574046966498" duration="912000" />
+      <workItem from="1574405490143" duration="559000" />
+      <workItem from="1575453156993" duration="136000" />
+      <workItem from="1575453318004" duration="3000" />
+      <workItem from="1577414895409" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="py3以上raw_input改成了input">
       <created>1516606296970</created>
@@ -251,7 +279,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573614752259</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="pycharm更新">
+      <created>1574050243792</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574050243792</updated>
+    </task>
+    <task id="LOCAL-00016" summary="pycharm更新">
+      <created>1574050337014</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574050337014</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +328,11 @@
     <MESSAGE value="python 下缩进需要一直 才能知道那些语句才是for下需要执行的" />
     <MESSAGE value="尝试一下" />
     <MESSAGE value="新增" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增" />
+    <MESSAGE value="pycharm更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="pycharm更新" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$1.coverage" NAME="1 Coverage Results" MODIFIED="1577553547967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$ex33.coverage" NAME="ex33 Coverage Results" MODIFIED="1577553274246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
